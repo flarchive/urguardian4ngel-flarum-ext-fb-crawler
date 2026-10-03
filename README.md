@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of urguardian4ngel/flarum-ext-fb-crawler.** Not for installation: use [Packagist](https://packagist.org/packages/urguardian4ngel/flarum-ext-fb-crawler) or the [upstream repository](https://github.com/UrGuardian4ngel/flarum-ext-fb-crawler).
 
-**0** versions archived · Latest: [`v0.1.0-beta.5`](https://github.com/flarchive/urguardian4ngel-flarum-ext-fb-crawler/tree/archive/v0.1.0-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v0.1.0-beta.5`](https://github.com/flarchive/urguardian4ngel-flarum-ext-fb-crawler/tree/archive/v0.1.0-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.5` | 2016-09-25 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/urguardian4ngel-flarum-ext-fb-crawler/tree/archive/v0.1.0-beta.5) |
 
 Catalog entry: [packages/urguardian4ngel-flarum-ext-fb-crawler.json](https://github.com/flarchive/archive-index/blob/main/packages/urguardian4ngel-flarum-ext-fb-crawler.json)
 
